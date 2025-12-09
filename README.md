@@ -1,5 +1,27 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>MERN + React Native based enterprise projects at YoungDecade IT Solutions, Indore, including authentication systems, dashboards, and scalable APIs.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>Full-stack MERN apps, mobile apps in React Native, and any project involving API integration, database design, or system architecture.<br><br>🤝 I’m looking for help with<br><br>Scaling high-traffic apps, improving CI/CD workflows, and optimizing React Native performance.<br><br>🌱 I’m currently learning<br><br>Advanced Node.js architecture, microservices patterns, and production-level app optimization. Also exploring DevOps basics (Docker + CI concepts).
+🔭 I’m currently working on
+
+MERN + React Native projects at YoungDecade (auth, dashboards, APIs).
+
+🤝 I’m looking to collaborate on
+
+Full-stack MERN apps, mobile apps, and API-driven systems.
+
+🆘 I’m looking for help with
+
+Scaling apps and improving React Native performance.
+
+🌱 I’m currently learning
+
+Advanced Node.js, microservices, and DevOps basics.
+
+💬 Ask me about
+
+MERN, React Native, SQL/MongoDB, and role-based authentication.
+
+⚡ Fun fact
+
+I’m a national-level rugby player turned full-stack dev.
 
 
 ## 🌐 Socials:
